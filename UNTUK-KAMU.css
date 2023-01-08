@@ -1,0 +1,235 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/brand-sepatu-lokal-2_ratio-16x9.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 593px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 153px 410px 0 20px;
+}
+
+.u-section-1 .u-btn-1 {
+  animation-duration: 1000ms;
+  padding: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 21px 97px 60px 20px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 489px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 116px;
+    margin-right: 230px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 6rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 26px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 476px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 93px;
+    margin-right: 10px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 4.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 16px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 357px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 401px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-top: 60px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 3rem;
+  }
+}.u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/ilustrasi-bioskop-di-beijing-sudah-mulai-dibuka-apmark-schiefelbein-3_169.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-2 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 153px 430px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 19px 132px 0 0;
+}
+
+.u-section-2 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-gallery-item-1 {
+  margin: 96px 0 0;
+}
+
+.u-section-2 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-gallery-item-2 {
+  margin: 0;
+}
+
+.u-section-2 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-gallery-item-3 {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 230px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    font-size: 6rem;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-right: 230px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 478px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 10px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    font-size: 4.5rem;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 10px;
+  }
+
+  .u-section-2 .u-gallery-item-3 {
+    margin-bottom: 41px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 359px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 500px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 3rem;
+    width: auto;
+    margin-top: 76px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 29px;
+  }
+
+  .u-section-2 .u-gallery-item-1 {
+    margin-top: 163px;
+  }
+
+  .u-section-2 .u-gallery-item-3 {
+    margin-bottom: 0;
+    margin-right: 0;
+  }
+}
